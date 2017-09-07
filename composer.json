@@ -1,0 +1,19 @@
+{
+    "name": "westie/outragelib-objectlist",
+    "type": "library",
+    "description": "OUTRAGElib object list",
+    
+    "version": "1.0.0",
+ 	
+    "authors": [
+        {
+            "name": "David Weston",
+            "email": "westie@typefish.co.uk",
+            "homepage": "http://www.typefish.co.uk"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": { "OUTRAGElib\\": "./lib" }
+    }
+}
